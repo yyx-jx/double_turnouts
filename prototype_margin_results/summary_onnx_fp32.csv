@@ -1,0 +1,2 @@
+﻿model,selected_raw_labels,label_mapping,input_length,support_count,query_count,mean_margin,p10_margin,non_positive_ratio,margin_retention,prototype_consistency,accuracy
+ONNX FP32,"[""0"", ""10"", ""8"", ""9"", ""4"", ""3"", ""6"", ""1""]","{""0"": 0, ""10"": 1, ""8"": 2, ""9"": 3, ""4"": 4, ""3"": 5, ""6"": 6, ""1"": 7}",200,30,2176,-0.013661733828485012,-0.030810270458459854,0.47472426470588236,1.0,1.0,0.5252757352941176
